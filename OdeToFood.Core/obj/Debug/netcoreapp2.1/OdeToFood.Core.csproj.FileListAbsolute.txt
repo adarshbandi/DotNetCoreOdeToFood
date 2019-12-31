@@ -1,0 +1,8 @@
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+F:\ComprehensiveLearning\DotNetCore\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
